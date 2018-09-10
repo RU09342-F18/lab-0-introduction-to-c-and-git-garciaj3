@@ -28,7 +28,8 @@ The **"math.c"** file includes a math function that takes two input integers and
 the answer as an output. If you wish to test the code by typing through the terminal then remove the starting and ending brackets that comments the main program function. 
 
 ### For Example: 
-```e.g. math(35,0,'~');
+```
+e.g. math(35,0,'~');
 Operation: ~
 Inputs : 35 and 0
 Output: -36
